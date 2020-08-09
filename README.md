@@ -32,9 +32,9 @@
 
 [<img align="left" alt="Ruby on Rails" width="35px" style="margin: 0 4px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" />](https://luisosnet.com/blog/)
 
-[<img align="left" alt="MySQL" width="35px" style="margin: 0 4px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://luisosnet.com/blog/)
-
 [<img align="left" alt="PostgreSQL" width="35px" style="margin: 0 4px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />](https://luisosnet.com/blog/)
+
+[<img align="left" alt="MySQL" width="35px" style="margin: 0 4px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://luisosnet.com/blog/)
 
 [<img align="left" alt="HTML5" width="35px" style="margin: 0 4px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://luisosnet.com/blog/)
 
@@ -46,4 +46,10 @@
 
 <br />
 <br />
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
