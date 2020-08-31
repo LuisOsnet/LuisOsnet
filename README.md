@@ -11,7 +11,6 @@
 
 ### Connect with me:
 
-
 [<img align="left" alt="https://luisosnet.com" width="30px" style="margin: 0 4px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" />](https://luisosnet.com/)
 
 [<img align="left" alt="Luis Osnet | Facebook" width="30px" style="margin: 0 4px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" />](https://www.facebook.com/luisosnet)
@@ -52,9 +51,3 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
