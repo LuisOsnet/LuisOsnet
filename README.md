@@ -50,4 +50,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruby on Rails en el 2020](https://luisosnet.com/2020/06/15/ruby-on-rails-en-el-2020/)
+- [Aumenta el tamaño de disco duro en Google Cloud](https://luisosnet.com/2020/06/09/como-aumentar-el-tamano-de-disco-duro-en-google-cloud/)
+- [Cómo construir un web scraper con Ruby on Rails](https://luisosnet.com/2020/06/02/como-construir-un-web-scraper-con-ruby-on-rails/)
+- [Primera vez en Las Vegas, adios realidad… hola Las Vegas](https://luisosnet.com/2019/07/23/primera-vez-en-las-vegas/)
+- [Mi primera vez en Orlando, Florida](https://luisosnet.com/2019/05/27/mi-primera-vez-en-orlando-florida/)
 <!-- BLOG-POST-LIST:END -->
