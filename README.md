@@ -50,9 +50,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cómo documentar una API usando Slate](https://luisosnet.com/blog/como-documentar-una-api-usando-slate/)
-- [Ruby on Rails en el 2020](https://luisosnet.com/blog/ruby-on-rails-en-el-2020/)
-- [Aumenta el tamaño de disco duro en Google Cloud](https://luisosnet.com/blog/como-aumentar-el-tamano-de-disco-duro-en-google-cloud/)
-- [Cómo construir un web scraper con Ruby on Rails](https://luisosnet.com/blog/como-construir-un-web-scraper-con-ruby-on-rails/)
-- [Primera vez en Las Vegas, adios realidad… hola Las Vegas](https://luisosnet.com/blog/primera-vez-en-las-vegas/)
+- [Cómo documentar una API usando Slate](https://luisosnet.com/como-documentar-una-api-usando-slate/)
+- [Ruby on Rails en el 2020](https://luisosnet.com/ruby-on-rails-en-el-2020/)
+- [Aumenta el tamaño de disco duro en Google Cloud](https://luisosnet.com/como-aumentar-el-tamano-de-disco-duro-en-google-cloud/)
+- [Cómo construir un web scraper con Ruby on Rails](https://luisosnet.com/como-construir-un-web-scraper-con-ruby-on-rails/)
+- [Primera vez en Las Vegas, adios realidad… hola Las Vegas](https://luisosnet.com/primera-vez-en-las-vegas/)
 <!-- BLOG-POST-LIST:END -->
