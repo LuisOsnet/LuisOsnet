@@ -50,9 +50,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Resumen anual 2020](https://luisosnet.com/resumen-anual-2020/)
 - [Herramientas utilizadas para auditoría SEO](https://luisosnet.com/herramientas-utilizadas-para-auditoria-seo/)
 - [Cómo documentar una API usando Slate](https://luisosnet.com/como-documentar-una-api-usando-slate/)
 - [Ruby on Rails en el 2020](https://luisosnet.com/ruby-on-rails-en-el-2020/)
 - [Aumenta el tamaño de disco duro en Google Cloud](https://luisosnet.com/como-aumentar-el-tamano-de-disco-duro-en-google-cloud/)
-- [Cómo construir un web scraper con Ruby on Rails](https://luisosnet.com/como-construir-un-web-scraper-con-ruby-on-rails/)
 <!-- BLOG-POST-LIST:END -->
