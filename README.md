@@ -1,10 +1,10 @@
 ### Hi there, I'm  [Luis Osnet](https://luisosnet.com) 👋
-## I'm a Traveler, Gamer, and Developer!
+## I'm a Software Engineer, Traveler, and Gamer!
 
-- 🔭 I’m currently working for [Instafit](https://instafit.com)!
+- 🔭 I’m currently working at [Homie](https://homie.mx/h/)!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Write and generate more content in my blog
-- ⚡ Fun fact: I love to travel and play videogames, I love CoD
+- 🥅 2021 Goals: Increase my productivity
+- ⚡ Fun fact: I love to travel and play Call of Duty
 - 📫 How to reach me: me@luisosnet.com
 
 
