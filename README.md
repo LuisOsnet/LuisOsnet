@@ -1,5 +1,5 @@
 ### Hi there, I'm  [Luis Osnet](https://luisosnet.com) 👋
-## I'm a Software Engineer, Traveler, and Gamer!
+## I'm Software Engineer, Traveler, and Gamer!
 
 - 🔭 I’m currently working at [Homie](https://homie.mx/h/)!
 - 🌱 I’m currently learning everything 🤣
