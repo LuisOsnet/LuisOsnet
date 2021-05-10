@@ -50,5 +50,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://luisosnet.com/2021/05/hello-world/)
+- [Ruby on Rails. El problema de las N+1 queries](https://luisosnet.com/ruby-on-rails-el-problema-de-las-n1-queries/)
+- [Resumen anual 2020](https://luisosnet.com/resumen-anual-2020/)
+- [Herramientas utilizadas para auditoría SEO](https://luisosnet.com/herramientas-utilizadas-para-auditoria-seo/)
+- [Cómo documentar una API usando Slate](https://luisosnet.com/como-documentar-una-api-usando-slate/)
+- [Ruby on Rails en el 2020](https://luisosnet.com/ruby-on-rails-en-el-2020/)
 <!-- BLOG-POST-LIST:END -->
