@@ -1,7 +1,7 @@
 ### Hi there, I'm  [Luis Osnet](https://luisosnet.dev) 👋
 ## I'm Software Engineer, Traveler, and Gamer!
 
-- 🔭 I’m currently working at [Michelada](https://www.michelada.io)!
+- 🔭 I’m currently working at [Modyo](https://www.modyo.com)!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to travel and play Call of Duty
 - 📫 How to reach me: me@luisosnet.com
